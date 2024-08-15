@@ -16,7 +16,7 @@
 
 💬 Ask me about **Any stock's fundamental analysis, Machine Learning, DSA... or anything [here](https://github.com/Samarthkumar2003/Samarthkumar2003/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
  </div>
  
@@ -45,9 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Samarthkumar2003/Samrthkumar2003/output/github-contribution-grid-snake.svg" />
+ 
   
   <br/><br/><br/>
 </div>
