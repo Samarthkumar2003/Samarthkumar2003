@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Stock price predictor**
  
- 🌱 I’m currently learning **Machine Learning**
+ 🌱 I’m currently learning **Web Development & Machine Learning**
 
 💬 Ask me about **Any stock's fundamental analysis, Machine Learning, DSA... or anything [here](https://github.com/Samarthkumar2003/Samarthkumar2003/issues)**
 
